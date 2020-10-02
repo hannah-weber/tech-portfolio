@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'hannah-weber',
+        linkedin: 'hannah-weber-367196197',
         twitter: '',
         github: 'hannah-weber',
     },
