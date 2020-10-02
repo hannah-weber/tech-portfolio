@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'hannah-weber',
         twitter: '',
-        github: 'hannahweber2',
+        github: 'hannah-weber',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
