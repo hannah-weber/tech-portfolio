@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Hannah Weber', // Title for your website.
     tagline: 'Second year student at Northeastern University pursuing a BS in Computer Science with a concentration in Artifical Intelligence.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: '',
     url: 'https://hannahweber2.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'hannah-weber-367196197',
+        linkedin: 'hannah-weber-00',
         twitter: '',
         github: 'hannah-weber',
     },
