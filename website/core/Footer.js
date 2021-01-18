@@ -16,19 +16,7 @@ class Footer extends React.Component {
   }
 
   render() {
-    return (
-      <footer className="nav-footer" id="footer">
-        <section className="social">
-          <a href={"https://www.linkedin.com/in/" + this.props.config.socialMedia.linkedin} target="_blank" className="social">
-            <img alt="LinkedIn" src={this.props.config.baseUrl + "img/linkedin.svg"}></img>
-          </a>
-          <a href={"https://github.com/" + this.props.config.socialMedia.github} target="_blank" className="social">
-            <img alt="GitHub" src={this.props.config.baseUrl + "img/github.svg"}></img>
-          </a>
-        </section>
-        <section className="copyright">{this.props.config.copyright}. Created with Docusaurus.</section>
-      </footer>
-    );
+    return null;
   }
 }
 
