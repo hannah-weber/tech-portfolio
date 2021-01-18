@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Hannah Weber', // Title for your website.
+    //title: 'Hannah Weber', // Title for your website.
     tagline: 'Second year student at Northeastern University pursuing a BS in Computer Science with a concentration in Artifical Intelligence.',
     url: 'https://hannahweber2.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
