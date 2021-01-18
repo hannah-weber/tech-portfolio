@@ -29,7 +29,7 @@ const siteConfig = {
 
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
-        { doc: "about", label: "About" , font: 'Times New Roman'},
+        { doc: "about", label: "About"},
         { doc: "projects", label: "Projects" },
     ],
 
