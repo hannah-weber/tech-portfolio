@@ -3,9 +3,10 @@ id: about
 title: About
 ---
 
-Hi my name is Hannah Weber, I am a second year Computer Science major at Northeastern University. I am concentrating in Artificial Intelligence with an focus in Machine Learning and Data.  
-This is my personal website created with XXX to share some of my personal and school projects. 
-Since they are school projects I cannot keep the code public but in the above Projects tab you will find a brief description of each project and the tools utilized to complete them. If you wish to see the code you can email me at weber.han@northeastern.edu and I can make them public for some time.
+Hi my name is Hannah Weber, I am a second year Computer Science major at Northeastern University. I am concentrating in Artificial Intelligence with an focus in Machine Learning and Data Science.  
+This is my personal website created using Docusaurus to share some of my personal and school projects. 
+In the above Projects tab you I have included a brief description of each project and the tools utilized to complete them. 
+Since most are school projects I cannot keep the code public but I can make available upon request. If you wish to see the code please email me  at weber.han@northeastern.edu and I can make them public for some time.
 
 ## Education
 #### Northeastern University Khoury College of Computer Science
