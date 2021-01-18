@@ -41,4 +41,6 @@ Activities: STEM Club, Key Club
 
 ## Contact Info
 Email: weber.han@northeastern.edu
+LinkedIn: https://www.linkedin.com/in/hannah-weber00/
+GitHub: https://github.com/hannah-weber
 
