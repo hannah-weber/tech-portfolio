@@ -3,30 +3,42 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Hi my name is Hannah Weber, I am a second year Computer Science major at Northeastern University. I am concentrating in Artificial Intelligence with an focus in Machine Learning and Data.  
+This is my personal website created with XXX to share some of my personal and school projects. 
+Since they are school projects I cannot keep the code public but in the above Projects tab you will find a brief description of each project and the tools utilized to complete them. If you wish to see the code you can email me at weber.han@northeastern.edu and I can make them public for some time.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+## Education
+#### Northeastern University Khoury College of Computer Science
+Candidate for Bachelor of Science in Computer Science \
+Expected Graduation 2023
 
-Write it in first (I) or third (Your Name Here) person.
+#### Saint Agnes Academy
+Houston, TX \
+Activities: STEM Club, Key Club
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+## Experience
+#### Teaching Assistant - Principles of Information Science
+- Conduct 3 hours of virtual office hours weekly with students where I answer questions, provide help on assignments, and review general course topics
+- Grade and offer feedback on student assignments
+- Correspond with professor to share any outstanding confusion or problems held by students     
+#### Watts Guerra LLP, - Doc Processor
+- Work 16+ hours a week in support of multibillion-dollar civil litigation
+- Classify and file supporting documents into company database 
+#### Disability Resource Center - Notetaker
+- Compose organized, legible notes in weekly classes to upload to campus Disability Resource Center for students receiving accommodations
 
-## Current Role
+## Extracurriculars 
+#### Northeastern Student Alumni Ambassadors    
+- Serve as an ambassador to the school’s Office of Alumni Relations       
+- Assist in planning student and alumni events and organizing service opportunities for club members
+- Collaborate with other members on External Affairs Committee
+#### Northeastern Women In Technology     
+- Attend weekly meetings consisting of various technology-focused presentations, speakers, and panels
 
-Grace Hopper Celebration Attendee
+## Computer Knowledge
+- Proficient in Java, Python
+- Familiar with R, SQL, XML, C, HTML
 
-## Recognition
+## Contact Info
+Email: weber.han@northeastern.edu
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
