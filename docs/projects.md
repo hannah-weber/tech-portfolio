@@ -3,12 +3,22 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+## Project 1
+Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+![Add image for project with alternate text for image](./assets/rosemary.png)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+## Project 2
+Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add image for project with alternate text for image](./assets/rosemary.png)
+
+## Project 3
+Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
+
+![Add image for project with alternate text for image](./assets/rosemary.png)
+
+## Project 4
+Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
+
+![Add image for project with alternate text for image](./assets/rosemary.png)
