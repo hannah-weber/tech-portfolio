@@ -40,8 +40,8 @@ const siteConfig = {
 
     /* Colors for website */
     colors: {
-        primaryColor: '#918c91',
-        secondaryColor: '#b39db1',
+        primaryColor: '#5E4955',
+        secondaryColor: '#C2B2B4',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
@@ -64,7 +64,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'hannah-weber-00',
+        linkedin: 'hannah-weber00',
         github: 'hannah-weber',
     },
 
