@@ -40,7 +40,7 @@ Activities: STEM Club, Key Club
 - Familiar with R, SQL, XML, C, HTML
 
 ## Contact Info
-Email: weber.han@northeastern.edu
-LinkedIn: https://www.linkedin.com/in/hannah-weber00/
+Email: weber.han@northeastern.edu \
+LinkedIn: https://www.linkedin.com/in/hannah-weber00/ \
 GitHub: https://github.com/hannah-weber
 
