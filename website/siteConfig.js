@@ -32,6 +32,10 @@ const siteConfig = {
         { doc: "about", label: "About"},
         { doc: "projects", label: "Projects" },
     ],
+    
+    stylesheets: [
+        'https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap',
+    ],
 
     // If you have users set above, you add it here:
     users,
