@@ -3,22 +3,22 @@ id: projects
 title: Projects
 ---
 
-## Project 1
+## Text-Based Animator
 Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
 ![Add image for project with alternate text for image](./assets/rosemary.png)
 
-## Project 2
+## Pyramid Solitaire
 Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
 ![Add image for project with alternate text for image](./assets/rosemary.png)
 
-## Project 3
+## Linear Perceptron Algorithm
 Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
 ![Add image for project with alternate text for image](./assets/rosemary.png)
 
-## Project 4
+## Principle Component Analysis Algorithm
 Description with link to [project](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure).
 
 ![Add image for project with alternate text for image](./assets/rosemary.png)
