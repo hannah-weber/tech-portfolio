@@ -10,35 +10,38 @@ Since most are school projects I cannot keep the code public but I can make avai
 
 ## Education
 #### Northeastern University Khoury College of Computer Science
+Northeastern University, Boston, MA \
+Khoury College of Computer Sciences \
 Candidate for Bachelor of Science in Computer Science \
 Expected Graduation 2023
 
 #### Saint Agnes Academy
 Houston, TX \
-Activities: STEM Club, Key Club
 
 ## Experience
 #### Teaching Assistant - Principles of Information Science
-- Conduct 3 hours of virtual office hours weekly with students where I answer questions, provide help on assignments, and review general course topics
-- Grade and offer feedback on student assignments
-- Correspond with professor to share any outstanding confusion or problems held by students     
+- Deliver comprehensive feedback to improve students’ learning and comprehension of complex Information Science principles such as information representation, storage, and retrieval using tools such as XML, SQL, and R
+- Conduct 3 hours of virtual office hours weekly with students to answer questions, provide help on assignments, review general course topics, and tackle any concerns
+- Consulted with professor and other TAs to ensure a fair and valuable experience for students   
 #### Watts Guerra LLP, - Doc Processor
-- Work 16+ hours a week in support of multibillion-dollar civil litigation
-- Classify and file supporting documents into company database 
-#### Disability Resource Center - Notetaker
-- Compose organized, legible notes in weekly classes to upload to campus Disability Resource Center for students receiving accommodations
+- Work 16+ hours a week to classify, file, and case note documents and emails into company database in support of multibillion-dollar civil litigation
+- Established efficient workflow to execute designated tasks and assimilated to company processes and tools with minimal oversight
 
 ## Extracurriculars 
 #### Northeastern Student Alumni Ambassadors    
-- Serve as an ambassador to the school’s Office of Alumni Relations       
-- Assist in planning student and alumni events and organizing service opportunities for club members
-- Collaborate with other members on External Affairs Committee
+- Represent Northeastern’s Office of Alumni Relations as an ambassador at alumni events
+- Collaborate with other members to plan student-alumni events, develop relations with other
+campus organizations, and cultivate overall club morale
+- Serve on club working group to strategize club goals and formalize member expectations
 #### Northeastern Women In Technology     
 - Attend weekly meetings consisting of various technology-focused presentations, speakers, and panels
 
 ## Computer Knowledge
-- Proficient in Java, Python
-- Familiar with R, SQL, XML, C, HTML
+- Languages: 
+  - Proficient in Java, Python, SQL, XML
+  - Familiar with R, C, HTML Operating systems: Mac OS X, Linux
+- Tools: 
+  - GitHub, Eclipse, IntelliJ, Jupyter Notebook, FileMaker Pro
 
 ## Contact Info
 Email: weber.han@northeastern.edu \
