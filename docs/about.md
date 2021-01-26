@@ -16,14 +16,14 @@ Candidate for Bachelor of Science in Computer Science \
 Expected Graduation 2023
 
 #### Saint Agnes Academy
-Houston, TX \
+Houston, TX 
 
 ## Experience
 #### Teaching Assistant - Principles of Information Science
 - Deliver comprehensive feedback to improve students’ learning and comprehension of complex Information Science principles such as information representation, storage, and retrieval using tools such as XML, SQL, and R
 - Conduct 3 hours of virtual office hours weekly with students to answer questions, provide help on assignments, review general course topics, and tackle any concerns
 - Consulted with professor and other TAs to ensure a fair and valuable experience for students   
-#### Watts Guerra LLP, - Doc Processor
+#### Watts Guerra LLP, - Document Processor
 - Work 16+ hours a week to classify, file, and case note documents and emails into company database in support of multibillion-dollar civil litigation
 - Established efficient workflow to execute designated tasks and assimilated to company processes and tools with minimal oversight
 
@@ -39,7 +39,9 @@ campus organizations, and cultivate overall club morale
 ## Computer Knowledge
 - Languages: 
   - Proficient in Java, Python, SQL, XML
-  - Familiar with R, C, HTML Operating systems: Mac OS X, Linux
+  - Familiar with R, C, HTML 
+- Operating systems: 
+  - Mac OS X, Linux
 - Tools: 
   - GitHub, Eclipse, IntelliJ, Jupyter Notebook, FileMaker Pro
 
