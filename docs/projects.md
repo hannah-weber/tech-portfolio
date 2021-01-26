@@ -25,7 +25,7 @@ the Animator builds model as well as the necessary controller and view to displa
 + As a text file with a description of the animation
 + As an SVG file (XML-based format to describe images and animations)
 
-This project increased my overall knowledge and understanding of the Model, View, Controller design pattern as a way to isolate the three behaviors of a complex graphical program, as well as the Factory creational design pattern to make runtime decisions. 
+This project increased my overall knowledge and understanding of the Model, View, Controller design pattern as a way to isolate the three behaviors of a complex graphical program.
 
 To see this project code please click [here](https://github.com/hannah-weber/Animator).
 
