@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Hannah Weber', // Title for your website.
-    tagline: 'Hi, I am Hannah Weber and I am a second year student at Northeastern University pursuing a BS in Computer Science with a concentration in Artifical Intelligence. This is my online technical portfolio, please explore to find out a little bit more about me and some of my personal projects.',
+    tagline: 'Hi I am Hannah Weber and I am a second year student at Northeastern University pursuing a BS in Computer Science with a concentration in Artifical Intelligence. This is my online technical portfolio, please explore to find out a little bit more about me and some of my personal projects.',
     url: 'https://hannahweber2.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
