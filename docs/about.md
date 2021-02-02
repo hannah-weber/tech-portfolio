@@ -41,7 +41,7 @@ Houston, TX
   - Proficient in Java, Python, SQL, XML, LaTeX
   - Familiar with R, C, HTML 
 - Operating systems: 
-  - Mac OS, Linux, Ubuntu
+  - Mac OS, Linux
 - Tools: 
   - GitHub, Eclipse, IntelliJ, Jupyter Notebook, FileMaker Pro
 
