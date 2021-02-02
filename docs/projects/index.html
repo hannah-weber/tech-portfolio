@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Projects · Hannah Weber</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Below are a collection of personal and school projects. Since most are school projects I cannot keep the code public but I can make available upon request. If you wish to see the code please email me at weber.han@northeastern.edu and I can make them public for some time."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Projects · Hannah Weber"/><meta property="og:type" content="website"/><meta property="og:url" content="https://hannahweber2.github.io/tech-portfolio/"/><meta property="og:description" content="Below are a collection of personal and school projects. Since most are school projects I cannot keep the code public but I can make available upon request. If you wish to see the code please email me at weber.han@northeastern.edu and I can make them public for some time."/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/tech-portfolio/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda&amp;display=swap"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/tech-portfolio/js/scrollSpy.js"></script><link rel="stylesheet" href="/tech-portfolio/css/main.css"/><script src="/tech-portfolio/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/tech-portfolio/"><h2 class="headerTitle">Hannah Weber</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/tech-portfolio/docs/about" target="_self">About</a></li><li class="siteNavItemActive"><a href="/tech-portfolio/docs/projects" target="_self">Projects</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Projects</h1></header><article><div><span><p>Below are a collection of personal and school projects. Since most are school projects I cannot keep the code public but I can make available upon request. If you wish to see the code please email me at <a href="mailto:weber.han@northeastern.edu">weber.han@northeastern.edu</a> and I can make them public for some time.</p>
+<h1><a class="anchor" aria-hidden="true" id="text-based-animator"></a><a href="#text-based-animator" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Text-Based Animator</h1>
+<p>An application built in IntelliJ, using Java, that creates simple 2D animations of shapes from text description which describes the animation in terms of what shapes should look like (color, size, and position) at key moments in the animation. The application has the ability to show the animation in multiple ways - visual (at still frames or in motion) and textual, depending on user specifications at the start and throughout the animation.</p>
+<h3><a class="anchor" aria-hidden="true" id="how-it-works"></a><a href="#how-it-works" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>How It Works</h3>
+<p>Given description of animation as input in the form:</p>
+<ul>
+<li>shape R rectangle
+<ul>
+<li>to create a shape</li>
+</ul></li>
+<li>motion R t0 x0 y0 w0 l0 r0 g0 b0 t1 x1 y1 w1 l1 r1 g1 b1
+<ul>
+<li>to create a motion for the shape R such that from time t0 to t1 R:
+<ul>
+<li>moves from (x0, y0) to (x1, y1)</li>
+<li>scales size from w0xl0 to w1xl1</li>
+<li>changes RGB color from (r0, g0, b0) to (r1, g1, b1)</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>the Animator builds model as well as the necessary controller and view to display the animation based on user choice of one of the following ways:</p>
+<ul>
+<li>As a movie/moving animation</li>
+<li>As a movie/moving animation the user can interact with in the following ways (see below example of animation in process):
+<ul>
+<li>play/pause</li>
+<li>diable/enable looping</li>
+<li>increase/descrease the speed at which the animation is played</li>
+</ul></li>
+</ul>
+<p><img src="./assets/buildings-screenshot.png" alt="image of animator" width="400"/></p>
+<ul>
+<li>As a text file with a description of the animation</li>
+<li>As an SVG file (XML-based format to describe images and animations)</li>
+</ul>
+<p>This project increased my overall knowledge and understanding of the Model, View, Controller design pattern as a way to isolate the three behaviors of a complex graphical program.</p>
+<p>To see this project code please click <a href="https://github.com/hannah-weber/Animator">here</a>.</p>
+<h1><a class="anchor" aria-hidden="true" id="principle-component-analysis-algorithm"></a><a href="#principle-component-analysis-algorithm" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Principle Component Analysis Algorithm</h1>
+<p>Collection of simple functions to perform and visualize image compression and extraction using principle component analysis on a sample data set of face images. Programmed using Python in Jupyter Notebook application.</p>
+<p>The notebook contains two main functions:</p>
+<ul>
+<li>pca_compress: compresses a given sample image from face image data set</li>
+<li>pca_extract: extracts estimate of sample image given compressed sample image
+as well as functions used to visualize what the dimensionality reduction technique does and how it can vary in results depending on the amount of compression specified.</li>
+</ul>
+<p>Overall, this project allowed me to apply mathematical concepts such us expected value, eigenvectors, and covariance to perform compression technique useful in many applications (i.e. in this case minimizing storage of faces for facial recognition software).</p>
+<p>To see this project notebook click <a href="https://github.com/hannah-weber/PrincipleComponentAnalysis">here</a>.</p>
+<h1><a class="anchor" aria-hidden="true" id="linear-perceptron-learning-algorithm"></a><a href="#linear-perceptron-learning-algorithm" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Linear Perceptron Learning Algorithm</h1>
+<p>Collection of simple functions to perform and visualize training a linear perceptron on a sample data set. Programmed using Python in Jupyter Notebook application.</p>
+<p>The notebook contains one main functions:</p>
+<ul>
+<li>update_perceptron: runs through one complete epoch to train linear perceptron model
+as well as functions used to visualize training a linear percepton on given linearly seperable data set from an arbitrary starting perceptron, until no more errors.</li>
+</ul>
+<p>This project gave me insight as to how simple concepts can be used to build a powerful Machine Learning tool. It gave me a greater understanding of what a reinforcement learning algorithm is and how it trains some model on given data.</p>
+<p>To see this project notebook click <a href="https://github.com/hannah-weber/LinearPerceptron">here</a>.</p>
+<h1><a class="anchor" aria-hidden="true" id="pyramid-solitaire"></a><a href="#pyramid-solitaire" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Pyramid Solitaire</h1>
+<p>Pyramid Solitaire game with textual display programmed in intelliJ using Java.</p>
+<p>Game Play/Rules:
+Pyramid Solitaire is a card game which shuffles a standard deck of cards and deals them out into a 7-row triangle with each card partially covered by the two cards below it. The remaining cards are set aside as the stock pile, with 1-3 being laid face up to form the &quot;draw&quot; pile. The primary rule of the game is that you can remove any one or two exposed cards whose sum is 13 (Jacks are 11, Queens are 12, and Kings are 13), where an exposed card is any card not covered by cards beneath it or any card in the draw pile. Once a draw card is used it is replaced by a card from the stock pile. The game ends when either all cards have been removed, or there is no more moves to be made. The goal of the game is to minimize your final score which is calculated by summing the total of all remaining, non-discarded cards.</p>
+<p>Game board is outputted using text to user. User can make moves using the following commands in the command line:</p>
+<ul>
+<li>rm1 r c
+<ul>
+<li>To remove one card at row r, card c</li>
+</ul></li>
+<li>rm2 r1 c1 r2 c2
+<ul>
+<li>To remove one card at row r1, card c1 and one card at row r2, card c2</li>
+</ul></li>
+<li>rmwd  r1 c1 d
+<ul>
+<li>To remove one card at row r, card c and draw card d</li>
+</ul></li>
+<li>dd d
+<ul>
+<li>To discard draw card d</li>
+</ul></li>
+</ul>
+<p>To see this project code please click <a href="https://github.com/hannah-weber/PyramidSolitaire">here</a>.</p>
+</span></div></article></div><div class="docs-prevnext"></div></div></div><nav class="onPageNav"></nav></div></div></body></html>
